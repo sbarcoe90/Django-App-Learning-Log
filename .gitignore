@@ -4,3 +4,4 @@ ll_env/
 # Ignore other files you don't want to commit
 *.pyc
 *.sqlite3
+*.DS_Store
